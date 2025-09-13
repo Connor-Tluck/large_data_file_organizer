@@ -6,7 +6,7 @@ from collections import defaultdict, Counter
 
 # Configuration - Update these paths as needed
 SCAN_ROOT = os.getenv("SCAN_ROOT", r"D:\\")
-PROJECT_ANCHOR = os.getenv("PROJECT_ANCHOR", r"D:\Caltrans Construction Project Sync")
+PROJECT_ANCHOR = os.getenv("PROJECT_ANCHOR", r"D:\Construction_Projects")
 GROUP_DEPTH = int(os.getenv("GROUP_DEPTH", "7"))
 
 # Output paths - Update these as needed

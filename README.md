@@ -57,7 +57,7 @@ All tools use environment variables for configuration to avoid hardcoded paths:
 |----------|-------------|---------|
 | `CAD_DIR` | Directory containing CAD files | `C:\path\to\your\cad\files` |
 | `SCAN_ROOT` | Root directory to scan | `D:\\` |
-| `PROJECT_ANCHOR` | Base path for project grouping | `D:\Caltrans Construction Project Sync` |
+| `PROJECT_ANCHOR` | Base path for project grouping | `D:\Construction_Projects` |
 | `GROUP_DEPTH` | Depth for project grouping | `7` |
 | `REPORT_CSV` | Output path for LiDAR report | `C:\temp\D_Drive_Laser_Intensity_Report.csv` |
 | `DISCOVERY_CSV` | Output path for LiDAR discovery | `C:\temp\D_Drive_Laser_Discovery.csv` |
